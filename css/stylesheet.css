@@ -1,4 +1,22 @@
 h1{
   text-align:center;
-  background-color:blue;
+  background-color:#6bc8cf;
+  padding:10px;
+  margin:10px;
   }
+  
+table {
+                border: 1px solid black;
+                border-collapse: collapse;
+                margin:10px;
+            }
+
+            td {
+                border: 1px solid black;
+                padding: 5px;
+                text-align: center;
+				background-color: lightgray;
+				width:400px;
+            }
+
+            
